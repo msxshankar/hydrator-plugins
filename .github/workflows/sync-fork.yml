@@ -1,3 +1,6 @@
+# Resource
+# https://stackoverflow.com/questions/70973259/github-action-for-synching-a-fork
+
 name: Sync Fork with Upstream
 
 # Trigger daily
