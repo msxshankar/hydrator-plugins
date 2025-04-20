@@ -28,7 +28,7 @@ jobs:
       - name: Merge upstream into main
         run: |
           git checkout develop
-          git merge upstream/develop --ff-only
+          git merge upstream/develop
 
       # Push the updated branch
       - name: Push changes
